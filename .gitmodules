@@ -1,0 +1,3 @@
+[submodule "cv_lab2/flownet2-pytorch"]
+	path = cv_lab2/flownet2-pytorch
+	url = https://github.com/NVIDIA/flownet2-pytorch.git
